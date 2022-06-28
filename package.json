@@ -7,6 +7,7 @@
     "engines": {
         "vscode": "^1.68.0"
     },
+    "icon": "icon.png",
     "repository": {
         "url": "https://github.com/ZuriPL/void-moonlight",
         "type": "git"
