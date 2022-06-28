@@ -1,0 +1,26 @@
+{
+    "name": "void-moonlight",
+    "displayName": "Void Moonlight",
+    "description": "An extra dark theme with vibrant colors",
+    "publisher": "zuriii",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "repository": {
+        "url": "https://github.com/ZuriPL/void-moonlight",
+        "type": "git"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Void Moonlight",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Void Moonlight-color-theme.json"
+            }
+        ]
+    }
+}
